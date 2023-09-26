@@ -9,6 +9,8 @@ Hi there 👋, I'm Grace Banda, a Software Engineering student @ TripleTen.
 Verified Achievements
 
 ![Image (4)](https://github.com/Grace1212-prog/Grace1212-prog/assets/125497456/f48c05b3-8951-40c2-9f60-ca57664fa56a)
+![Image (5)](https://github.com/Grace1212-prog/Grace1212-prog/assets/125497456/bf2b57c2-88b2-41fb-822d-9973620a6a7b)
+
 
 
 <!--
