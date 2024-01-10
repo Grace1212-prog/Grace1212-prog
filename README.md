@@ -4,7 +4,7 @@ Hi there 👋, I'm Grace Banda, a Software Engineering student @ TripleTen.
 *  🔭 I’m currently working on a cool project at TripleTen.
 *  🌱 I’m currently learning Javascript.
 *  📫 How to reach me: in social networks.
-*  🤔 I’m looking to be a web developer.
+*  🤔 I love learning new skills.
 
 Verified Achievements
 
